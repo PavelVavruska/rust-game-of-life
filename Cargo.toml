@@ -1,0 +1,8 @@
+[package]
+name = "rust-game-of-life"
+version = "0.1.0"
+authors = ["Pavel Vavruska <vavruska.pavel@gmail.com>"]
+
+[dependencies]
+piston_window = "0.120.0"
+rand = "0.3"
